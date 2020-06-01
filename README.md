@@ -1,3 +1,3 @@
 # Sudoku
 V01
-![](image/1.jpg)
+![](https://github.com/linfirst/Sudoku/blob/master/image/1.jpg)
